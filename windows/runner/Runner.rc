@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.sdl" "\0"
-            VALUE "FileDescription", "sudoku_starter" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "flutter_test_2026" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "sudoku_starter" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 com.sdl. All rights reserved." "\0"
-            VALUE "OriginalFilename", "sudoku_starter.exe" "\0"
-            VALUE "ProductName", "sudoku_starter" "\0"
+            VALUE "InternalName", "flutter_test_2026" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "flutter_test_2026.exe" "\0"
+            VALUE "ProductName", "flutter_test_2026" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
